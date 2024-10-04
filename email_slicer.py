@@ -1,12 +1,3 @@
-# email= input("Enter Your Email : ")
-# res=email.split("@")
-# print("UserName : ",res[0])
-# print("Domain Name : ",res[1].split(".")[0])
-# print("Top Level Domain : ",res[1].split(".")[1])
-
-
-
-
 import re
 
 def is_valid_email(email):
